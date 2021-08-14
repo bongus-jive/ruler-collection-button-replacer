@@ -1,8 +1,8 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "author" : "pateman",
   "tags" : "Crafting and Building|User Interface|In-Game Tools",
-  "description" : "patch for the ruler that removes it from Quickbar and instead replaces the collections button\ncollections are in quickbar instead\nthe settings are also still in quickbar\n\nthats it\n\n\njoin this again\n[h1]https://discord.gg/GdsQSgV[/h1]\ngive me more money\nhttps://www.patreon.com/pathiccstar",
+  "description" : "patch for the ruler that removes it from Quickbar and instead replaces the collections button\ncollections are in quickbar instead\n\nthats it\n\n\njoin this again\n[h1]https://discord.gg/GdsQSgV[/h1]\ngive me more money\nhttps://www.patreon.com/pathiccstar",
   "requires" : ["pat_ruler"],
   "name" : "pat_ruler_collections",
   "friendlyName" : "Ruler Collections Replacer",

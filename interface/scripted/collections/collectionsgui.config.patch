@@ -2,6 +2,6 @@
   {
     "op": "add",
     "path": "/scripts/-",
-    "value": "/pat/ruler/rulerToggle.lua"
+    "value": "/interface/scripted/collections/pat_ruler.lua"
   }
 ]
