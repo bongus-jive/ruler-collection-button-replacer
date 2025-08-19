@@ -1,10 +1,12 @@
-local oldInit = init or function() end
+local _init = init
 
 function init()
-	if not config.getParameter("pat_openOld") then
-		require "/pat/ruler/toggle.lua"
+	if not config.getParameter("pat_openCollections") then
+		params = { "pat_ruler_toggle" }
+		require "/pat/ruler/quickbartoggle.lua"
 		pane.dismiss()
+		return
 	end
-	
-	oldInit()
+
+	if _init then _init() end
 end
