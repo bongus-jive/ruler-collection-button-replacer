@@ -1,21 +1,10 @@
 [
 	[
-		{
-			"op": "test",
-			"path": "/items/patman:ruler"
-		},
-		{
-			"op": "remove",
-			"path": "/items/patman:ruler"
-		}
+		{ "op": "test", "path": "/items/patman:ruler" },
+		{ "op": "remove", "path": "/items/patman:ruler" }
 	],
-	
 	[
-		{
-			"op": "test",
-			"path": "/items/starbound:collectionsgui",
-			"inverse": true
-		},
+		{ "op": "test", "path": "/items/starbound:collectionsgui", "inverse": true },
 		{
 			"op": "add",
 			"path": "/items/starbound:collectionsgui",

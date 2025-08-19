@@ -1,7 +1,3 @@
 [
-  {
-    "op": "add",
-    "path": "/scripts/-",
-    "value": "/interface/scripted/collections/pat_ruler.lua"
-  }
+  { "op": "add", "path": "/scripts/-", "value": "/interface/scripted/collections/pat_ruler.lua" }
 ]
